@@ -1,0 +1,9 @@
+#pragma once
+#include "CreateD2D.h"
+#include "ThrowField.h"
+#include "LoadBitmapFromFile.h"
+#include "TEXTURE.h"
+#include "FILE_OPEN.h"
+void FILE_SAVE();
+void SAVE();
+void SAVE_FILE();
